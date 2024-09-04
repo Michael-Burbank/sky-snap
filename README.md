@@ -14,5 +14,8 @@ HTML, CSS, JavaScript
 OpenWeatherMap API
 Responsive design principles
 
-https://github.com/user-attachments/assets/9ecdc9ab-cbc3-4cc9-b6d3-cac0dc3deff2
+
+https://github.com/user-attachments/assets/54b5f304-4220-436f-9b0a-6234f50aaf8a
+
+
 
