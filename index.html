@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <!-- remix icons -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+
+    <!-- google fonts: poppins -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- style -->
+
+    <link rel="stylesheet" href="style.css" />
+
+    <title>SkySnap | The Weather App</title>
+  </head>
+  <body>
+    <div class="switch">
+      <button>
+        <i class="ri-sun-fill" id="light"></i>
+        <i class="ri-moon-fill" id="dark"></i>
+      </button>
+    </div>
+    <div class="insta">
+      <a href="https://www.instagram.com/codewith.nat/" target="_blank"
+        ><i class="ri-instagram-fill"></i
+      ></a>
+    </div>
+    <div class="hero-text">
+      <h1>The Weather (APP)</h1>
+    </div>
+    <div class="card">
+      <div class="search">
+        <input type="text" placeholder="Search" class="search-bar" />
+        <button><i class="ri-search-line"></i></button>
+      </div>
+
+      <div class="weather loading">
+        <h2 class="city">Weather in Karachi</h2>
+        <div class="temp">51°C</div>
+        <div class="flex">
+          <img
+            src="http://openweathermap.org/img/w/03d.png"
+            alt=""
+            class="icon"
+          />
+          <div class="description">Cloudy</div>
+        </div>
+        <div class="humidity">Humidity: 60%</div>
+        <div class="wind">Wind speed: 6.2 km/h</div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
