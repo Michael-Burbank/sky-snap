@@ -1,5 +1,5 @@
-# sky-snap
-SkySnap 🌤️
+# SkySnap 🌤️
+
 SkySnap is a sleek, responsive weather application that provides real-time weather updates for any location. Built with a modern design, it features light and dark modes, offering a visually appealing and user-friendly experience. Get accurate weather information, including temperature, humidity, wind speed, and more, with SkySnap.
 
 Features
@@ -14,6 +14,7 @@ HTML, CSS, JavaScript
 OpenWeatherMap API
 Responsive design principles
 
+View the web app: https://sky-snap.netlify.app/
 
 https://github.com/user-attachments/assets/54b5f304-4220-436f-9b0a-6234f50aaf8a
 
