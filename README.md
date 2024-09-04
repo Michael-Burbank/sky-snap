@@ -8,7 +8,11 @@ Features
 🌡️ Displays current temperature, weather conditions, wind speed, and humidity
 🕒 View hourly and daily forecasts
 📱 Fully responsive design, perfect for both desktop and mobile devices
+
 Technologies Used
 HTML, CSS, JavaScript
 OpenWeatherMap API
 Responsive design principles
+
+https://github.com/user-attachments/assets/9ecdc9ab-cbc3-4cc9-b6d3-cac0dc3deff2
+
